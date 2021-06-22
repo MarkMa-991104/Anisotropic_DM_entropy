@@ -41,7 +41,7 @@ Large-scale.ipynb
 To invetigate the entropy distribution on large-scales, namely 100 Mpc in comoving coordinates. On the x-y plane of z=0 for present-day, 
 The distribution of  Etropy per unit volume; Entropy per particle, for isotropic, anisotropic and difference; as well as density was plotted respectively.
 
-Offset-Debugging.ipynb
+Offset-Debugging.ipynb  
 To solve/improve the offset problem encountered for the first algorithms. Displayed how normalisation procedure was constructed as well as the results on a test velocity distribution.
 
 Time evolution.ipynb
