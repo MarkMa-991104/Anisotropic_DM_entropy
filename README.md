@@ -20,7 +20,7 @@ My project used the pure dark matter cosmological simulation run by Lucie-Smith 
 
 Outputs of the simulation were 101 snapshots correspond to the same simulation at 101 different times.  
 
-This github repository contains the final snapshot (snapshot_099) as well as its halo informations, placed in the folder "Simulation_Used".   
+This github repository only contains the final snapshot (snapshot_099) as well as its halo informations, placed in the folder "Simulation_Used".   
 
 In order to run the codes (expect for "Time evolution.ipynb") in the folder "Codes-ipynb", one needs to download the contents inside the folder "Simulation_Used" and place them in the same directory with the codes.    
 
